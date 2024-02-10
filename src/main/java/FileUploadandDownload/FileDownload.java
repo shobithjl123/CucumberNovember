@@ -19,6 +19,8 @@ public class FileDownload {
 
     //folder location.
 
+    //Downloading files committed and pushed to github.
+
     String location=System.getProperty("user.dir") + "\\DownloadFiles";
 
     String expectedFileName="sample-clouds-400x300.jpg";
