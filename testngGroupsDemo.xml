@@ -1,0 +1,23 @@
+<suite name = "Demo Project">
+
+        <groups>
+            <run>
+            <exclude name="email"/>
+            </run>
+        </groups>
+
+
+   <test name="module1">
+       <classes>
+           <class name="TestNGDemos.Demo3.ClassOne"/>
+           <class name="TestNGDemos.Demo3.ClassTwo"/>
+       </classes>
+   </test>
+
+    <test name="module2">
+        <classes>
+            <class name="TestNGDemos.Demo3.ClassThree"/>
+        </classes>
+    </test>
+
+</suite>
