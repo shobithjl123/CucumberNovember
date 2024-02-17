@@ -16,7 +16,7 @@ Feature: All add user related scenarios
     And i click on Add button
     Then User should be added
     Examples:
-      | name        | address          | contact1 | contact2 |
-      | Ramakrishna | BHEL Layout      | 908722   | 7320445  |
-      | Somashekar  | Singapore layout | 986511   | 4923044  |
-      | Naidu       | Gangamma circle  | 738414   | 4905905  |
+      | name     | address    | contact1 | contact2 |
+      | Revanth  | SouthKorea | 12232    | 334444   |
+      | Kumar    | Bombay     | 56677    | 123344   |
+      | Nagaraja | Karnataka  | 26373    | 131223   |
